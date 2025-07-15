@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What are the main factors that influence the final rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The price is determined by four key things: the type of unit you choose (standard vs. luxury), the duration of the rental, the delivery distance to your location (which affects fuel and labor costs), and the required service frequency for multi-day or long-term rentals. We provide an all-inclusive quote so you see the final price upfront.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do your luxury restroom trailers require an external power or water source?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, and that’s a major advantage. Our luxury trailers are completely self-contained. They have their own onboard freshwater tanks for flushing and handwashing, and they use integrated solar panels and battery systems to power the interior lighting and water pumps, making them perfect for even the most remote locations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is there an extra charge for emergency or same-day rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While the base rental rate for the unit remains the same, emergency deployments may incur an ""emergency dispatch fee."" This covers the immediate mobilization of our on-call driver and vehicle, often outside of normal business hours, to ensure we can get to you as quickly as possible.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What if a unit has an issue during my event, like it runs out of supplies?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We stock our units generously, but for very large or long events, this can happen. Your rental agreement includes a 24/7 contact number. Just give us a call, and we will dispatch a team member to service the unit and restock it promptly to ensure your guests remain comfortable.</p>
+                <h4 class="template4 palooma" style="font-size:large;">My event might go later than planned. When do you typically pick up the units?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">To avoid disrupting your event, our standard procedure is to schedule pickup for the following business day. This gives you flexibility and peace of mind. If you require same-night pickup for a specific reason, we can arrange that in advance for an additional fee.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
